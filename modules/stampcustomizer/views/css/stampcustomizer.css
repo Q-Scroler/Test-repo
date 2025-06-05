@@ -1,0 +1,11 @@
+#stamp-customizer {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+#stamp-preview {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px dashed #666;
+  min-height: 50px;
+}
